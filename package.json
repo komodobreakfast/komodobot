@@ -2,12 +2,10 @@
   "name": "ManikBot-Md",
   "version": "1.0.0",
   "description": "No Description",
-   "engines": {
-    "node": "18.12.1"
-  }
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+    "node": "18.12.1"
   },
 
   "dependencies": {
